@@ -1,0 +1,17 @@
+Sample.Text_ID,Sample.Template,Sample.Product,Sample.Customer,Test.Analysis,Result.Name,Result.Entry, Result.Instrument
+
+a,PAPER,PAPER,TYLER,LOD,Boat Wt,21.3508, BALANCE_2
+
+a,PAPER,PAPER,TYLER,LOD,Sample Wt,2.4809, BALANCE_2
+
+a,PAPER,PAPER,TYLER,LOD,Final Wt,21.4574, BALANCE_2
+
+a,PAPER,PAPER,TYLER,APPEARANCE,Color,White
+
+b,PAPER,PAPER,TYLER,LOD,Boat Wt,19.1990, BALANCE_2
+
+b,PAPER,PAPER,TYLER,LOD,Sample Wt,2.1393, BALANCE_2
+
+b,PAPER,PAPER,TYLER,LOD,Boat Wt,19.2623, BALANCE_2
+
+b,PAPER,PAPER,TYLER,APPEARANCE,Color,"Off-White, Speckled"
